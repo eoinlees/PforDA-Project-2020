@@ -1,8 +1,5 @@
-# PforDA-Project-2020
-
 # Programming for Data Analytics - Project 2020
 ## Eoin Lees - G00387888 - December 2020
-
 
 The following program is a project for the programming for data analytics module in December 2020. 
 

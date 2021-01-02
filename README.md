@@ -40,6 +40,4 @@ gives an example project idea.
 
 ### Results
 
-# Fill in after project completion
-
-After compiling all of the research and information into the summary  jupyter notebook document I believe I have a much deeper understanding of the the `numpy.random` package. I am confident that in future usage of the package I will be able to refer back to this document and use it as a starting off point for working on problems. 
+After compiling all of the research and information into the summary jupyter notebook document I believe I have a much deeper understanding of how to simulate a data set using python. I am confident that in future usage of the package I will be able to refer back to this document and use it as a starting off point for working on problems. 
